@@ -133,7 +133,7 @@ accounts-receivable-analytics-dashboard
 
 If the dashboard is published to Power BI Service, access it here:
 
-[View Dashboard](PASTE_POWERBI_LINK_HERE)
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDc2YjVlMmItYTk0Ny00ZjM3LWIyYzMtMTA3NmYyNWNmMzJhIiwidCI6ImQxN2JhNjg4LWIzYTktNGQ2ZS05NTBmLTQ4OWQ4OGJhOTgyNyIsImMiOjZ9)
 
 ---
 
