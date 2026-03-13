@@ -139,13 +139,12 @@ If the dashboard is published to Power BI Service, access it here:
 
 ## 👨‍💻 Author
 
-**Zenobius Oktavianus**
+**Zenobius Oktavianus Setiawan**
 
 Data Analyst | Financial Analytics | Power BI
 
-LinkedIn: (add your LinkedIn profile here)
-GitHub: (add your GitHub profile here)
-
+LinkedIn: www.linkedin.com/in/zenobiusoktavianussetiawan
+GitHub: https://github.com/Xokta-Zeno
 ---
 
 ## 📌 Project Purpose
