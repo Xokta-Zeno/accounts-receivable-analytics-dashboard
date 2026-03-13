@@ -131,7 +131,7 @@ accounts-receivable-analytics-dashboard
 
 ## 🔗 Live Dashboard (Optional)
 
-If the dashboard is published to Power BI Service, access it here:
+You can explore the interactive dashboard here:
 
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDc2YjVlMmItYTk0Ny00ZjM3LWIyYzMtMTA3NmYyNWNmMzJhIiwidCI6ImQxN2JhNjg4LWIzYTktNGQ2ZS05NTBmLTQ4OWQ4OGJhOTgyNyIsImMiOjZ9)
 
