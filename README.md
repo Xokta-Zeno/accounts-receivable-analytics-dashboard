@@ -144,6 +144,7 @@ If the dashboard is published to Power BI Service, access it here:
 Data Analyst | Financial Analytics | Power BI
 
 LinkedIn: www.linkedin.com/in/zenobiusoktavianussetiawan
+
 GitHub: https://github.com/Xokta-Zeno
 ---
 
