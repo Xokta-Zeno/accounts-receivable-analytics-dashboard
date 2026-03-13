@@ -29,19 +29,19 @@ This dashboard solves those issues by providing **real-time insights into receiv
 
 ### Accounts Receivable Aging Analysis
 
-![AR Aging Dashboard](images/ar_aging_dashboard.png)
+![AR Aging Dashboard](images/ar_past_due.png)
 
 ---
 
 ### Customer Payment Behavior
 
-![Customer Payment](images/payment_behavior.png)
+![Customer Payment](images/ar_trend_behavior.png)
 
 ---
 
 ### Outstanding Receivable Trend
 
-![Outstanding Trend](images/outstanding_trend.png)
+![Outstanding Trend](images/ar_monitoring_dashboard.png)
 
 ---
 
